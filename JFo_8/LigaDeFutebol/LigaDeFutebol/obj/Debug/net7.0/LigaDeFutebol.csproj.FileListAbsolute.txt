@@ -1,0 +1,15 @@
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\bin\Debug\net7.0\LigaDeFutebol.exe
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\bin\Debug\net7.0\LigaDeFutebol.deps.json
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\bin\Debug\net7.0\LigaDeFutebol.runtimeconfig.json
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\bin\Debug\net7.0\LigaDeFutebol.dll
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\bin\Debug\net7.0\LigaDeFutebol.pdb
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.csproj.AssemblyReference.cache
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.AssemblyInfoInputs.cache
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.AssemblyInfo.cs
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.dll
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\refint\LigaDeFutebol.dll
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.pdb
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\LigaDeFutebol.genruntimeconfig.cache
+C:\Users\Joao\OneDrive\Área de Trabalho\Java Fundations - Exercicios\JFo_8\LigaDeFutebol\LigaDeFutebol\obj\Debug\net7.0\ref\LigaDeFutebol.dll
